@@ -1,10 +1,21 @@
 # 🦊 Survive the Night
 
-A 2D fox platformer game where you guide a fox through four dangerous zones to survive the night. Built as a **Parallel and Distributed Computing Lab** project.
+A side-scrolling platformer game with multithreading demonstrations — built for the **Parallel & Distributed Computing Lab**.
 
-**Team Members:** Hifsa Jabeen Satti, Ayesha Khan, Aliza Ali
+## Play the Game Online
+
+You can play the game directly in your browser (no installation needed):
+
+**[Play Survive the Night](https://survive-the-night-v2.vercel.app)**
+
+*(If the link above doesn't work, follow the "Run Locally" instructions below.)*
 
 ---
+
+## Team Members
+- Hifsa Jabeen Satti
+- Ayesha Khan
+- Aliza Ali
 
 ## About
 
